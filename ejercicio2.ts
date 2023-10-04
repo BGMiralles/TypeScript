@@ -1,12 +1,12 @@
-interface User {
+interface User1 {
   name: string;
   id: string | number;
 }
-let myObj0: User = { 
+let myObj00: User1 = { 
     name: "John", 
     id: "4432R" 
 };
-let myObj1: User = { 
+let myObj11: User1 = { 
     name: "John", 
     id: 1283 
 };
